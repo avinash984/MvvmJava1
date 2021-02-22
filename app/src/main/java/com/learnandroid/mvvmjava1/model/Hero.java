@@ -1,4 +1,4 @@
-package com.example.belalkhan.androidviewmodel;
+package com.learnandroid.mvvmjava1.model;
 
 public class Hero {
     private String name;
